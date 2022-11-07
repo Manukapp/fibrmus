@@ -17,3 +17,7 @@
 	path = xfmz
 	url = ./xfmz
 	datalad-id = c8cefa2b-55fc-44f4-bdad-dc644d29213a
+[submodule "output"]
+	path = output
+	url = ./output
+	datalad-id = 765023a1-afe3-4cb4-a48a-bb5a475c262e
