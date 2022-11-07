@@ -13,3 +13,7 @@
 	path = tramsformation
 	url = ./tramsformation
 	datalad-id = 873231d6-65fe-4db9-82af-653d0c280893
+[submodule "xfmz"]
+	path = xfmz
+	url = ./xfmz
+	datalad-id = c8cefa2b-55fc-44f4-bdad-dc644d29213a
